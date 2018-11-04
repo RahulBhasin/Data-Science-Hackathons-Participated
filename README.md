@@ -1,2 +1,2 @@
 # Hackathons
-Codes and approached of the Hackathons participated
+Codes and approaches of the Hackathons participated
