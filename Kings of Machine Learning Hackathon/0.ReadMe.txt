@@ -1,0 +1,13 @@
+Packages Required:
+    Python: 2.6
+    Numpy - 1.13.3
+    Pandas - 0.19.2
+    Scipy - 0.18.1
+    os,sys - Default in Python
+    
+Run the script using the below command 
+    python 3.NMF.py
+
+Place all the raw files in 01.RawData folder. 
+Final Output - 2.Submissions/5.Ensemble3.csv
+Intermediate Outputs - 2.Submissions/3.NMF0.csv, 2.Submissions/4.UserHeroMean6.csv
