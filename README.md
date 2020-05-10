@@ -2,7 +2,7 @@
 
 This repository contains various the codes and approaches of the Hackathons I participated in.
 
-## Hackathons:
+## Hackathons List:
 
 * Kings of Machine Learning Hackathon by Analytics Vidhya [Hackthon Link](https://datahack.analyticsvidhya.com/contest/kings-of-machine-learning/) : **Won second prize**
 
