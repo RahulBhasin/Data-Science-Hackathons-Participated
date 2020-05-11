@@ -4,7 +4,7 @@ This repository contains various the codes and approaches of the Hackathons I pa
 
 ## Hackathons List:
 
-* Kings of Machine Learning Hackathon by Analytics Vidhya [Hackthon Link](https://datahack.analyticsvidhya.com/contest/kings-of-machine-learning/) : **Won second prize** 🥈
+* Kings of Machine Learning Hackathon by Analytics Vidhya [Hackthon Link](https://datahack.analyticsvidhya.com/contest/kings-of-machine-learning/) : **Won second prize** 🥈among 1503 participants; applied ensemble of Latent Factor Decomposition & Mean Encoding
 
 * Enigma codeFest Machine Learning Challenge by Analytics Vidhya [Hackthon Link](https://datahack.analyticsvidhya.com/contest/enigma-codefest-machine-learning/)
 
